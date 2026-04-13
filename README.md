@@ -50,20 +50,12 @@
 
 ---
 
-### 🚀 Projects
-
-- 🚖 **TaxiYa** – Plateforme de réservation de taxis  
-- 🍽️ **Médiathèque culinaire API** – API REST avec Node.js  
-- 📊 **Admin Dashboard** – Gestion produits, utilisateurs et commandes avec Laravel  
-
----
-
 ### 🧠 Skills
 
 - **Backend:** PHP (POO), Laravel, Node.js  
 - **Frontend:** HTML, CSS, Bootstrap, Tailwind, JavaScript, React, Vue.js  
-- **Database:** MySQL  
-- **Tools:** Git, GitHub, Docker, Figma, UML  
+- **Database:** MySQL
+- **Tools:** Git, GitHub, Gitlab, Figma, UML, Jira, Trello
 
 ---
 
